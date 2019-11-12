@@ -1,0 +1,34 @@
+
+$ ls
+ 
+$ cd Desktop
+
+$ mkdir proyectoweb
+
+$ cd proyectoweb
+
+$ touch index.html
+
+$ touch contacto.hmtl
+
+$ git init
+
+$ ls -lha
+
+$ ls -lh
+
+$ git config
+  
+$ git config --global user.name "Daniela"
+
+$ git config --global user.email "danielaperezro65@gmail.com"
+
+$ git status
+
+$ git add .
+
+$ git long
+
+$ git log --oneline
+
+$ git reset --hard 92e1b0d
